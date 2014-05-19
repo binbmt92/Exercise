@@ -7,5 +7,11 @@ namespace Exercise.C_
 {
     class Student
     {
+        /**
+         * name
+         * full name student
+         * @name    string
+         */
+        public string namestudent;
     }
 }
