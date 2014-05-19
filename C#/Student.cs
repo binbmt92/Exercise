@@ -7,6 +7,10 @@ namespace Exercise.C_
 {
     class Student
     {
+        //
+        // Long da sua
+        //
+        //
         /**
          * name
          * full name student
