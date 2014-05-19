@@ -12,6 +12,19 @@ namespace Exercise.C_
          * full name student
          * @name    string
          */
-        public string namestudent;
+        private string _name;
+        public string namestudent
+        {
+            get
+            {
+                return "sv " + this._name;
+            }
+            set
+            {
+                this._name = value;
+            }
+        }
+
+
     }
 }

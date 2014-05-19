@@ -21,6 +21,7 @@ namespace Exercise
             Student SVnamnhat = new Student();
             SVnamnhat.namestudent = "Bin";
             MessageBox.Show(SVnamnhat.namestudent);
+
         }
     }
 }
